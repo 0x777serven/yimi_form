@@ -1,6 +1,6 @@
 {
   "name": "yimiwork_form",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A test project",
   "author": "0x777serven",
   "license": "MIT",
@@ -12,6 +12,5 @@
   "dependencies": {
     "lodash": "^4.17.21",
     "ttictactoe111": "1.0.0"
-
   }
 }
